@@ -65,11 +65,14 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<!-- GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/sovooon/sovooon/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 
+<h2 align="center">⚡ sovon's Contribution Calendar</h2>
+<p align="center">
+  <a href="https://github.com/sovon1">
+    <img src="https://ghchart.rshah.org/58a6ff/sovon1" alt="Sovon's GitHub chart" />
+  </a>
+</p>
 
 ---
 
