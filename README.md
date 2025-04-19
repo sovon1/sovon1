@@ -87,9 +87,9 @@
 </a>
 
 ---
-## i am listening to 
 ### 🎧 Now Playing
 [![Spotify](https://novatorem-sovon1.vercel.app/api/spotify)](https://open.spotify.com/user/31nsmg7uuwyn3sdroz3f43qzodj4)
+
 
 ## 📝 Quote to Code By
 
