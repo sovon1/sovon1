@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sovon1/sovon1/main/.github/assets/profile_banner.png" alt="Sovon1 - C++ Developer & Problem Solver" width="800"/>
+  <img src="h[ttps://raw.githubusercontent.com/sovon1/sovon1/main/.github/assets/profile_banner.png](https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg)" alt="Sovon1 - C++ Developer & Problem Solver" width="800"/>
   <!-- You'll need to create this banner image and place it in .github/assets/profile_banner.png in your sovon1/sovon1 repo -->
   <!-- Alternatively, remove this section or use a generator like https://capsule-render.vercel.app/ -->
   <!-- Example using capsule-render: -->
@@ -72,7 +72,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="Random Dev Quote"/>
