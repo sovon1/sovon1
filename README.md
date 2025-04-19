@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg](https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg)" alt="Sovon1 - C++ Developer & Problem Solver" width="800"/>
+  <img src="https://raw.githubusercontent.com/sovon1/sovon1/main/.github/assets/profile_banner.png" alt="Sovon1 - C++ Developer & Problem Solver" width="800"/>
   <!-- You'll need to create this banner image and place it in .github/assets/profile_banner.png in your sovon1/sovon1 repo -->
   <!-- Alternatively, remove this section or use a generator like https://capsule-render.vercel.app/ -->
   <!-- Example using capsule-render: -->
@@ -8,6 +8,12 @@
 </p>
 
 <h1 align="center">👋 Hey, I'm Sovon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<!-- Profile Image Added Here -->
+<p align="center">
+  <img src="https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg" alt="Sovon Profile Picture" width="150" style="border-radius:50%;"/> <!-- Added image, set width, made it circular -->
+</p>
+
 <p align="center">
   <em>Passionate C++ coder, problem-solver, and cinephile 🎬 exploring the world of tech.</em>
 </p>
@@ -16,10 +22,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
 
-<picture>
+<picture align="right" style="float: right; margin-left: 15px; margin-bottom: 15px;"> <!-- Adjusted alignment and added margin -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sovon1/sovon1/output/github-contribution-grid-snake.svg" align="right" width="45%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sovon1/sovon1/output/github-contribution-grid-snake.svg" width="350"> <!-- Adjusted width slightly -->
 </picture>
 
 -   🔭 **Currently Working On:** A cool C++ project pushing my problem-solving skills!
@@ -28,6 +34,8 @@
 -   🌱 **Currently Learning:** Deepening my understanding of algorithms, data structures, and efficient coding practices.
 -   💬 **Ask Me About:** C++, problem-solving approaches, movies, or tech trends!
 -   ⚡ **Fun Fact:** I thrive in quiet places, but my mind is a constant brainstorm! 🌩️
+
+<br clear="right"/> <!-- Clear the float for the next section -->
 
 ---
 
@@ -57,7 +65,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=sovon1&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" width="60%"/>
 </p>
 <!-- Consider adding GitHub Activity Graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- Example: <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovon1&bg_color=FEFBFB&color=705B54&line=705B54&point=705B54&area=true&hide_border=true" alt="Activity Graph"/> -->
+<!-- Example: <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sovon1&bg_color=FEFBFB&color=705B54&line=705B54&point=705B54&area=true&hide_border=true" alt="Activity Graph"/> -->
 
 ---
 
@@ -72,7 +80,7 @@
 
 ---
 
-### ✍️
+### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte" alt="Random Dev Quote"/>
