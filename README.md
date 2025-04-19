@@ -68,7 +68,8 @@
 ## 🐍 Contribution Snake
 
 <!-- GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/sovon1/sovon1/output/github-contribution-grid-snake.svg" alt="github contribution snake">
+<img src="https://raw.githubusercontent.com/sovooon/sovooon/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+
 
 ---
 
