@@ -25,7 +25,7 @@
 |------------|---------------------------------------------|
 | 🌱 Learning | DSA, System Design, Performance Tuning.     |
 | 💬 Ask Me  | C++, logic building, movies, and tech!       |
-| 🎯 Goal     | Become a Codeforces beast 🧠⚔️ (3000+ rating someday!) |
+| 🎯 Goal     | Become a Codeforces beast 🧠⚔️ (1600+ rating someday!) |
 | 😎 Fun Fact | I'm addicted to quiet nights & noisy brains. |
 
 </div>
