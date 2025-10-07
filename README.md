@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://ibb.co.com/j0RCYWd][img]https://i.ibb.co.com/j0RCYWd/4707d1e9-de4b-4465-a70e-afd7be0553fa.jpg" alt="Sovon1 - C++ Developer & Problem Solver" width="100%"/>
+  <img src="https://github.com/sovon1/sovon1/blob/main/profile_banner.png" alt="Sovon1 - C++ Developer & Problem Solver" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#0078D4;">Sovon</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
