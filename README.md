@@ -88,7 +88,7 @@
 
 ---
 ### 🎧 Now Playing
-[![Spotify](https://novatorem-31nsmg7uuwyn3sdroz3f43qzodj4.vercel.app/api/spotify)](https://open.spotify.com/user/31nsmg7uuwyn3sdroz3f43qzodj4)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nsmg7uuwyn3sdroz3f43qzodj4)
 
 
 ## 📝 Quote to Code By
