@@ -88,10 +88,12 @@
 
 ---
 ### 🎧 Now Playing
-### 🎧 Now Playing
 <p align="center">
-  <img src="https://spotify-now-playing-lewd.vercel.app/api/spotify?user=31nsmg7uuwyn3sdroz3f43qzodj4&theme=dark" alt="Spotify Now Playing" width="350"/>
+  <a href="https://open.spotify.com/user/31nsmg7uuwyn3sdroz3f43qzodj4">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nsmg7uuwyn3sdroz3f43qzodj4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="350"/>
+  </a>
 </p>
+
 
 
 ## 📝 Quote to Code By
