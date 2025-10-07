@@ -87,8 +87,10 @@
 </a>
 
 ---
-### 🎧 Now Playing
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nsmg7uuwyn3sdroz3f43qzodj4)
+### 🎧 What sovon is listening rn
+<p align="center">
+  <img src="https://spotify-now-playing-rosy.vercel.app/api/spotify?user=31nsmg7uuwyn3sdroz3f43qzodj4&theme=dark" alt="Spotify Now Playing" width="350"/>
+</p>
 
 
 
