@@ -73,6 +73,14 @@
     <img src="https://ghchart.rshah.org/58a6ff/sovon1" alt="Sovon's GitHub chart" />
   </a>
 </p>
+<h2 align="center">⚡ Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sovon1/sovon1/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
