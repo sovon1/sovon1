@@ -89,7 +89,7 @@
 ---
 ### 🎧 Now Playing
 <p align="center">
-  <img src="https://spotify-now-playing-rosy.vercel.app/api/spotify?user=31nsmg7uuwyn3sdroz3f43qzodj4&theme=dark" alt="Spotify Now Playing" width="350"/>
+  <img src="https://spotify-now-playing-lewd.vercel.app/api/spotify?user=31nsmg7uuwyn3sdroz3f43qzodj4&theme=dark" alt="Spotify Now Playing" width="350"/>
 </p>
 
 
