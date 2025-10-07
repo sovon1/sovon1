@@ -89,8 +89,8 @@
 ---
 ### 🎧 Now Playing
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31nsmg7uuwyn3sdroz3f43qzodj4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nsmg7uuwyn3sdroz3f43qzodj4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="350"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nsmg7uuwyn3sdroz3f43qzodj4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nsmg7uuwyn3sdroz3f43qzodj4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" width="350"/>
   </a>
 </p>
 
