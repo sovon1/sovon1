@@ -103,11 +103,10 @@
 
 
 
-## 📝 Quote to Code By
+## 📝 >>
 
 <div style="background-color:#0D1117; color:#58A6FF; padding:1rem; border-radius:10px;">
-  <em style="color:turquoise;">❝ Code is expensive to change, but design is cheaper to change,<br>
-  and requirements are even cheaper to change. ❞</em>
+  <em style="color:turquoise;">❝ Que sera, sera ❞</em>
   <br><br>
   <span style="float:right;">- Daniel T. Barry</span>
 </div>
