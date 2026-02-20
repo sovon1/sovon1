@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=4500&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%A0+NOTICE%3A+Do+not+attempt+to+understand+this+mind+%E2%9A%A0;ERROR+404%3A+Emotions+not+found+in+this+scope.;Some+variables+were+never+meant+to+be+declared.;He+doesn%27t+sleep.+He+just+enters+a+low-power+debug+mode." alt="Warning Typing"/>
 <!-- Header Banner -->
 <p align="center">
   <img src="https://github.com/sovon1/sovon1/blob/main/profile_banner.png" alt="Sovon1 - C++ Developer & Problem Solver" width="100%"/>
@@ -17,18 +18,16 @@
 
 ---
 
-### 💡 Quick Bits About Me
+
+<!-- ════════════════════════════════════════════ -->
+<!--        MYSTERIOUS IDENTITY SECTION           -->
+<!-- ════════════════════════════════════════════ -->
 
 <div align="center">
-  
-| 🔭 Currently | Learning & building awesome C++ projects. |
-|------------|---------------------------------------------|
-| 🌱 Learning | DSA, System Design, Performance Tuning.     |
-| 💬 Ask Me  | C++, logic building, movies, and tech!       |
-| 🎯 Goal     | Become a Codeforces beast 🧠⚔️ (1600+ rating someday!) |
-| 😎 Fun Fact | I'm addicted to quiet nights & noisy brains. |
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=300&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%5B+SYSTEM+BOOT+%5D+....+Initializing+Sovon.exe;%5B+WARNING+%5D+Unclassified+intellect+detected+on+grid;%5B+SCANNING+%5D+Mapping+neural+architecture+...+done;%5B+STATUS+%5D+Entity+is+alive.+Barely+sleeping.+Always+coding.;%5B+ACCESS+%3F+%5D+You+were+never+meant+to+find+this+file." alt="Boot Sequence Typing"/>
+
+<br/>
 
 ---
 
