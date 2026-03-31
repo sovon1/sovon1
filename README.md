@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">👋 Hey, I'm <span style="color:#0078D4;">Sovon</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#4A5568;">Sovon</span> <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="30px"></h1>
 
 <!-- Profile Picture -->
 <p align="center">
