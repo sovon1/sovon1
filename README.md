@@ -1,8 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=4500&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%A0+NOTICE%3A+Do+not+attempt+to+understand+this+mind+%E2%9A%A0;ERROR+404%3A+Emotions+not+found+in+this+scope.;Some+variables+were+never+meant+to+be+declared.;He+doesn%27t+sleep.+He+just+enters+a+low-power+debug+mode." alt="Warning Typing"/>
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/sovon1/sovon1/blob/main/profile_banner.png" alt="Sovon1 - C++ Developer & Problem Solver" width="100%"/>
+  <img src="https://i.imgur.com/2eMX38n.gif" alt="Header Banner" width="800">
 </p>
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#0078D4;">Sovon</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
