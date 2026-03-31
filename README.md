@@ -67,13 +67,15 @@
 
 
 
-<h2 align="center">⚡ sovon's Contribution Calendar</h2>
+<h2 align="center">🌧️ Endless Commits</h2>
+<p align="center" style="font-size: 12px; color: #8b949e;">Because my contributions to this code are actually appreciated.</p>
 <p align="center">
   <a href="https://github.com/sovon1">
     <img src="https://ghchart.rshah.org/58a6ff/sovon1" alt="Sovon's GitHub chart" />
   </a>
 </p>
-<h2 align="center">⚡ Contribution Snake</h2>
+<h2 align="center">🐍 The Snake That Consumes Time</h2>
+<p align="center" style="font-size: 12px; color: #8b949e;">Watch it eat my commits like the void consumes my will to try.</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-snake-dark.svg" />
@@ -103,12 +105,16 @@
 
 
 
-## 📝 >>
+<div style="background-color:#0D1117; color:#8b949e; padding:1.5rem; border-radius:10px; border-left: 4px solid #58A6FF;">
+<em style="color:#58A6FF; font-size: 1.1em;">❝ In a world of pointers, I somehow lost the address to my own peace. Some variables were just meant to be garbage collected. ❞</em>
 
-<div style="background-color:#0D1117; color:#58A6FF; padding:1rem; border-radius:10px;">
-  <em style="color:turquoise;">❝ Que sera, sera ❞</em>
-  <br><br>
-  <span style="float:right;">- Daniel T. Barry</span>
+
+
+
+
+
+
+<span style="float:right; color: #58A6FF;">— A Depressed Dev</span>
 </div>
 
 ---
