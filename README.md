@@ -15,6 +15,15 @@
 <p align="center">
   <img src="./sovon1.gif" alt="Demo" width="800" />
 </p>
+<p align="center">
+  <em> <b>idk a shit man :'')</b>  </em>
+</p>
+<!--   ### 🛠️ Tech Arsenal    -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linux,cmake,bash,neovim&theme=dark&perline=5" alt="Tech Arsenal"/>
+</p>
+
 <h2 align="center">🌧️ Endless Commits</h2>
 <p align="center" style="font-size: 12px; color: #8b949e;">Because my contributions to this code are actually appreciated.</p>
 <p align="center">
@@ -30,37 +39,6 @@
  <!-- <img src="https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg" alt="Sovon Profile Picture" width="160" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" /> -->
 <!-- </p> -->
 
-<p align="center">
-  <em> <b>C++ developer</b> & curious cinephile 🎬 <br>
-  idk a shit man :'') </em>
-</p>
-
----
-
-
-### 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3s ease-in-out infinite;" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3.4s ease-in-out infinite;" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" style="margin: 0 20px; animation: floatTech 2.6s ease-in-out infinite;" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3.8s ease-in-out infinite;" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" style="margin: 0 20px; animation: floatTech 2.9s ease-in-out infinite;" title="VS Code"/>
-</p>
-
-<style>
-  
-@keyframes floatTech {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-18px); }
-}
-img[title]:hover {
-  transform: scale(1.2) rotate(8deg) !important;
-  filter: drop-shadow(0 0 12px #58a6ff);
-  transition: all 0.3s ease;
-}
-  
-</style>
 
 
 ---
@@ -80,13 +58,12 @@ img[title]:hover {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovon1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
----
 
 
 
 
-<h2 align="center">🐍 The Snake That Consumes Time</h2>
-<p align="center" style="font-size: 12px; color: #8b949e;">Watch it eat my commits like the void consumes my will to try.</p>
+<!-- <h2 align="center">🐍 The Snake That Consumes Time</h2> -->
+<!-- <p align="center" style="font-size: 12px; color: #8b949e;">Watch it eat my commits like the void consumes my will to try.</p> -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovon1/sovon1/output/github-snake-dark.svg" />
