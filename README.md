@@ -47,17 +47,13 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sovon1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovon1&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovon1&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sovon1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="60%"/>
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sovon1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
