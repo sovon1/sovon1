@@ -1,23 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=4500&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%A0+NOTICE%3A+Do+not+attempt+to+understand+this+mind+%E2%9A%A0;ERROR+404%3A+Emotions+not+found+in+this+scope.;Some+variables+were+never+meant+to+be+declared.;He+doesn%27t+sleep.+He+just+enters+a+low-power+debug+mode." alt="Warning Typing"/>
-<!-- Header Banner -->
-<p align="center">
-  <img src="./sovon1.gif" alt="Demo" width="800" />
-</p>
-
-
-<h1 align="center">👋 Hey, I'm <span style="color:#4A5568;">Sovon</span> <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="30px"></h1>
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg" alt="Sovon Profile Picture" width="160" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
-</p>
-
-<p align="center">
-  <em>🔥 Passionate <b>C++ developer</b>, strategic problem-solver & curious cinephile 🎬 <br>
-  I build, break, and debug — all in silence, my happy place 🌌</em>
-</p>
-
----
 
 
 <!-- ════════════════════════════════════════════ -->
@@ -31,6 +11,32 @@
 <br/>
 
 ---
+<!-- Header Banner -->
+<p align="center">
+  <img src="./sovon1.gif" alt="Demo" width="800" />
+</p>
+<h2 align="center">🌧️ Endless Commits</h2>
+<p align="center" style="font-size: 12px; color: #8b949e;">Because my contributions to this code are actually appreciated.</p>
+<p align="center">
+  <a href="https://github.com/sovon1">
+    <img src="https://ghchart.rshah.org/58a6ff/sovon1" alt="Sovon's GitHub chart" />
+  </a>
+</p>
+
+<!-- <h1 align="center">👋 Hey, I'm <span style="color:#4A5568;">Sovon</span> <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="30px"></h1> -->
+
+<!-- Profile Picture -->
+<!-- <p align="center"> -->
+ <!-- <img src="https://i.ibb.co.com/nN7nvx61/Whats-App-Image-2024-10-24-at-00-29-54-b114752e.jpg" alt="Sovon Profile Picture" width="160" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" /> -->
+<!-- </p> -->
+
+<p align="center">
+  <em> <b>C++ developer</b> & curious cinephile 🎬 <br>
+  idk a shit man :'') </em>
+</p>
+
+---
+
 
 ### 🛠️ Tech Arsenal
 
@@ -63,13 +69,7 @@
 
 
 
-<h2 align="center">🌧️ Endless Commits</h2>
-<p align="center" style="font-size: 12px; color: #8b949e;">Because my contributions to this code are actually appreciated.</p>
-<p align="center">
-  <a href="https://github.com/sovon1">
-    <img src="https://ghchart.rshah.org/58a6ff/sovon1" alt="Sovon's GitHub chart" />
-  </a>
-</p>
+
 <h2 align="center">🐍 The Snake That Consumes Time</h2>
 <p align="center" style="font-size: 12px; color: #8b949e;">Watch it eat my commits like the void consumes my will to try.</p>
 <p align="center">
@@ -118,3 +118,5 @@
 ## 👁️‍🗨️ Profile Visit Count
 
 <img src="https://komarev.com/ghpvc/?username=sovooon&style=flat-square&color=blue" alt="Profile Visit Count" />
+---
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=4500&pause=1000&color=FF4444&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=%E2%9A%A0+NOTICE%3A+Do+not+attempt+to+understand+this+mind+%E2%9A%A0;ERROR+404%3A+Emotions+not+found+in+this+scope.;Some+variables+were+never+meant+to+be+declared.;He+doesn%27t+sleep.+He+just+enters+a+low-power+debug+mode." alt="Warning Typing"/>
