@@ -41,12 +41,27 @@
 ### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3s ease-in-out infinite;" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3.4s ease-in-out infinite;" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" style="margin: 0 20px; animation: floatTech 2.6s ease-in-out infinite;" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" style="margin: 0 20px; animation: floatTech 3.8s ease-in-out infinite;" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" style="margin: 0 20px; animation: floatTech 2.9s ease-in-out infinite;" title="VS Code"/>
 </p>
+
+<style>
+  
+@keyframes floatTech {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-18px); }
+}
+img[title]:hover {
+  transform: scale(1.2) rotate(8deg) !important;
+  filter: drop-shadow(0 0 12px #58a6ff);
+  transition: all 0.3s ease;
+}
+  
+</style>
+
 
 ---
 
