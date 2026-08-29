@@ -94,16 +94,6 @@
 
 
 <div style="background-color:#0D1117; color:#8b949e; padding:1.5rem; border-radius:10px; border-left: 4px solid #58A6FF;">
-<em style="color:#58A6FF; font-size: 1.1em;">❝ In a world of pointers, I somehow lost the address to my own peace. Some variables were just meant to be garbage collected. ❞</em>
-
-
-
-
-
-
-
-<span style="float:right; color: #58A6FF;">— A Depressed Dev</span>
-</div>
 
 ---
 
